@@ -2104,6 +2104,11 @@
   resolved "https://registry.yarnpkg.com/@uma/contracts-frontend/-/contracts-frontend-0.3.13.tgz#40f2c7c61a66daf1db5080a1dc31473bf3242f64"
   integrity sha512-eGFjGPUs4Q9D0w9Jaft3mRHp2BnJPsAg42kYRZ+HMpd6/Cn0gfxXpVcwK8a9cpd0Faw4jUwWkyy44+3tXJIQQw==
 
+"@uma/contracts-frontend@^0.4.19":
+  version "0.4.19"
+  resolved "https://registry.yarnpkg.com/@uma/contracts-frontend/-/contracts-frontend-0.4.19.tgz#0960d5779d1819ea5a7aaa58369c145099c80362"
+  integrity sha512-KOFxkPNSPymQTq2SPQPWjfOP97rwBHuTIys5UjSDg+emCbxdjxXcQWOLLs94rREQXs4718h/gR7qF8P9epZ4XQ==
+
 "@uma/contracts-node@^0.2.0":
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/@uma/contracts-node/-/contracts-node-0.2.1.tgz#29ebba6b2ecba7f0d2dc9b484bc34f0abbdefdaa"
