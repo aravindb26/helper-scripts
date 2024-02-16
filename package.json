@@ -21,7 +21,7 @@
   "dependencies": {
     "@across-protocol/contracts-v2": "^1.0.2",
     "@uma/contracts-frontend": "^0.3.13",
-    "@uma/sdk": "^0.28.0",
+    "@uma/sdk": "^0.34.4",
     "bluebird": "^3.7.2",
     "dotenv": "^16.0.0",
     "husky": "^8.0.1",
