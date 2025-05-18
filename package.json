@@ -19,7 +19,7 @@
     "*.ts":"yarn lint"
   },
   "dependencies": {
-    "@across-protocol/contracts-v2": "^1.0.2",
+    "@across-protocol/contracts-v2": "^2.4.2",
     "@uma/contracts-frontend": "^0.3.13",
     "@uma/sdk": "^0.28.0",
     "bluebird": "^3.7.2",
